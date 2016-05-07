@@ -27,13 +27,10 @@ Some user stories to get started (However, if you want to do it, I'm open to it)
 - As a user I'd like the aspect ratio of the game fixed regardless of client/server display size
 - As a user I'd like network discovery
 - As a user I'd like this to work over the internet (You can use MySaasa server as a connection broker, matchmaking service)
-
+- As a developer I'd like a integration test suite
+- As a developer I'd like a unit test suite
 
 How to contribute.
-- Create an issue
-- Make a PR
-- I'll merge PR's and possibly review them
-
-If someone is active, i'll give them additional rights to the project.
-
-This was a hobby project and don't have much time to maintain it, but thought others may want to finish it.
+- Request collaborator access to ( adamhammer2 (at) gmail (you know the rest) )
+- I'll grant access and you can do whatever you want.
+- However, please create issues in github for work you intend to do, so their is visibility to others.
